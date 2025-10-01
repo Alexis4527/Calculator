@@ -1,11 +1,3 @@
-﻿'Affirmation of Authorship:
-
-'Name: Alexis Willey
-
-'Date: 9/8/2025
-
-'I affirm that this program was created by me. It is solely my work and ‘does not include any work done by anyone else.
-
 Imports System.Data
 Imports System.Text.RegularExpressions
 
@@ -158,4 +150,5 @@ Public Class Form1
     End Sub
 
 End Class
+
 
